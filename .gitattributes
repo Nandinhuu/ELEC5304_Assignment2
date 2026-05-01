@@ -1,0 +1,3 @@
+# Reduce PR merge conflicts for notebook JSON files.
+# Keep current branch's notebook when merging; regenerate outputs by rerunning notebook.
+*.ipynb merge=ours
